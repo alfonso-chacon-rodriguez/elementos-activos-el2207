@@ -2,12 +2,18 @@
 ## Repositorio de apoyo
 ## Profesor: Alfonso Chacón Rodríguez
 
-Este repositorio contine material de apoyo para los estudiantes del Instituto Tecnológico de Costa Rica que cursan Elementos Activos, EL2207
+Este repositorio GIT contine material de apoyo para los estudiantes del Instituto Tecnológico de Costa Rica que cursan Elementos Activos, EL2207
 
-### Periodo actual
-1. Tareas
+### Periodo actual (Segundo semestre 2020)
+Enlaces al material en el repositorio
+
+1. [Tareas](https://github.com/alfonso-chacon-rodriguez/elementos-activos-el2207/tree/master/II-Sem-2020/Tareas-Extra)
 2. Simulaciones
 
+
+# Noticias 
+La respuesta a la primera tarea extra se halla en 
+https://github.com/alfonso-chacon-rodriguez/elementos-activos-el2207/tree/master/II-Sem-2020/Tareas-Extra/tarea-1.ipynb
 
 ```markdown
 Syntax highlighted code block
