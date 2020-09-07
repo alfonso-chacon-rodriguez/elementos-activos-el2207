@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+# Elementos Activos EL2207
+## Repositorio de apoyo
+## Profesor: Alfonso Chacón Rodríguez
 
-You can use the [editor on GitHub](https://github.com/alfonso-chacon-rodriguez/elementos-activos-el2207/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio contine material de apoyo para los estudiantes del Instituto Tecnológico de Costa Rica que cursan Elementos Activos, EL2207
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Periodo actual
+1. Tareas
+2. Simulaciones
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
